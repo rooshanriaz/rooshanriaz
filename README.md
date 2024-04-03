@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
+
+My name is **Rooshan Riaz**. I am currently doing Bachelors in Cyber Security from GIKI. 
+
+Currently I am learning Devops and looking for projects to contribute on.
 
 <!--
 **rooshanriaz/rooshanriaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

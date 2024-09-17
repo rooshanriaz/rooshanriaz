@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevSysOps**
 
-- 💬 Ask me about **C++, Python, SQL, Docker, RHEL, AWS**
+- 💬 Ask me about **C++, Python, SQL, Docker, AWS**
 
 - 📫 How to reach me **riazrooshan@gmail.com**
 

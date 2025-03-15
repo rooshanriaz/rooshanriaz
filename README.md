@@ -1,4 +1,4 @@
-👋 Hi there, I'm @rooshanriaz
+👋 Hi there, I'm Rooshan Riaz
 
 👀 I'm interested in learning new technologies and expanding my skillset.
 

@@ -32,7 +32,7 @@ I am a Cybersecurity Engineer, actively pursuing opportunities as a System Admin
 * Conducted vulnerability testing and application security assessments for enterprise web applications using the OWASP Top 10 methodology.
 * Documented identified vulnerabilities alongside technical evidence, business impact, and remediation recommendations.
 
-**Cyber Security Intern | [cite_start]Bytewise Limited**
+**Cyber Security Intern | Bytewise Limited**
 * Analyzed network traffic using Wireshark to identify suspicious communication patterns, protocols, and packets.
 * Executed offensive security exercises focusing on OWASP Top 10 vulnerabilities and basic penetration testing workflows.
 

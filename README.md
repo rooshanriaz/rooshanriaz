@@ -44,24 +44,6 @@ I am a Cybersecurity Engineer based in Lahore, Punjab, actively pursuing opportu
 * Built foundational knowledge of standards, compliance, SOC workflows, threat intelligence platforms, and secure system administration.
 * Performed offensive security exercises involving OWASP Top 10 vulnerabilities, Log4j RCE exploitation concepts, and basic penetration testing workflows.
 
-## Featured Projects
-
-**Finnera - Secure Core Banking Platform & API**
-* Designed secure REST APIs with authentication, authorization, RBAC, and decentralized identity mechanisms for simulated financial transactions.
-* Implemented blockchain-backed audit trails to support transaction integrity, traceability, tamper-resistant logs, and compliance-oriented evidence collection.
-* Integrated AI-based fraud detection for anomaly identification, risk monitoring, and security-focused product design.
-* Applied threat modeling and secure design principles to identify risks across APIs, identity flows, transaction handling, and sensitive data workflows.
-
-**SIEM-Based Threat Detection & Incident Monitoring**
-* Simulated attacks and monitored endpoint/network logs to detect suspicious activities, anomalies, and potential incidents.
-* Configured detection use cases, correlated multi-source security events, and conducted alert triage aligned with MITRE ATT&CK techniques.
-* Built practical exposure to incident investigation, log analysis, detection engineering, and security operations documentation.
-
-**DevSecOps Kubernetes Deployment using Terraform**
-* Automated AWS EKS infrastructure provisioning with Terraform, including VPC, IAM roles, security groups, and networking components.
-* Built CI/CD pipelines with GitHub Actions to automate infrastructure provisioning, container image builds, testing, and deployment.
-* Applied cloud security and Infrastructure-as-Code practices relevant to secure product delivery, configuration management, and security automation.
-
 ## Cybersecurity Consulting Capabilities
 * **GRC Consulting:** Able to support control mapping, security documentation, audit evidence collection, compliance gap tracking, and remediation follow-up aligned with ISO 27001, NIST, CIS Controls, and ISA 62443 concepts.
 * **Vulnerability Management:** Able to run and validate scans, prioritize findings by severity and business impact, document remediation plans, and support vulnerability closure tracking.

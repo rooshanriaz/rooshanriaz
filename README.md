@@ -51,12 +51,6 @@ I am a Cybersecurity Engineer based in Lahore, Punjab, actively pursuing opportu
 * **Incident Management:** Able to support log review, alert triage, incident documentation, root-cause analysis, evidence collection, and escalation across technical teams.
 * **Security Automation & Reporting:** Able to use Python, Bash, SQL, GitHub Actions, and dashboards/reporting concepts to automate repetitive security checks and improve visibility into risks and compliance status.
 
-## Certifications & Achievements
-* **APISEC Certified Practitioner** - APISec University.
-* Represented GIKI in NADRA Bug Bounty Competition and reported security vulnerabilities.
-* Led a 25-member team for ACM - GIKI Chapter to organize the ICPC Asia West regional competition, coordinating logistics, registration, and on-day operations.
-* Delivered workshops to 50+ junior students on networking and Linux fundamentals, strengthening communication and technical training skills.
-
 ## Get in Touch
 * **Email:** riazrooshan@gmail.com
 * **LinkedIn:** [Connect with me](https://linkedin.com/in/rooshanriaz)

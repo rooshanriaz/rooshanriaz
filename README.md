@@ -1,11 +1,11 @@
-# [cite_start]Hi there, I am Rooshan Riaz [cite: 1]
+# Hi there, I am Rooshan Riaz
 
-[cite_start]I am a Cybersecurity Engineer [cite: 2] based in Lahore, Punjab, actively pursuing opportunities as a System Administrator and in Security Operations Center (SOC) roles. 
+I am a Cybersecurity Engineer, actively pursuing opportunities as a System Administrator and in Security Operations Center (SOC) roles. 
 
 ## About Me
-* [cite_start]Cyber Security graduate from the Ghulam Ishaq Khan Institute of Engineering Sciences & Technology (GIKI)[cite: 4, 8].
-* [cite_start]I have hands-on experience with vulnerability assessment, application security testing, SIEM-based monitoring, cloud security, and DevSecOps[cite: 4].
-* [cite_start]My technical foundation includes completing a Diploma in DevSysOps Engineering [cite: 57] [cite_start]and specialized training in Red Hat Certified System Administrator (RHCSA) fundamentals[cite: 58].
+* Cyber Security graduate from the Ghulam Ishaq Khan Institute of Engineering Sciences & Technology (GIKI).
+* I have hands-on experience with vulnerability assessment, application security testing, SIEM-based monitoring, cloud security, and DevSecOps.
+* My technical foundation includes completing a Diploma in DevSysOps Engineering and specialized training in Red Hat Certified System Administrator (RHCSA) fundamentals.
 * I am interested in cloud administration, cloud security, and learning new technologies to continuously optimize and secure enterprise systems.
 
 ## Technical Skills & Tools
@@ -21,36 +21,36 @@
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-* [cite_start]**Cloud & Infrastructure Security:** AWS, GCP, Linux, Windows Server, Network Security, and System Hardening[cite: 46].
-* [cite_start]**DevSecOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Python, Bash, and SQL[cite: 47].
-* [cite_start]**Application & Product Security:** OWASP Top 10, Burp Suite, OWASP ZAP, SAST, DAST, and Threat Modeling[cite: 44].
-* [cite_start]**SIEM & Incident Response:** Wazuh SIEM, ELK Stack, Splunk Fundamentals, Snort, and Suricata[cite: 45].
+* **Cloud & Infrastructure Security:** AWS, GCP, Linux, Windows Server, Network Security, and System Hardening.
+* **DevSecOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Python, Bash, and SQL.
+* **Application & Product Security:** OWASP Top 10, Burp Suite, OWASP ZAP, SAST, DAST, and Threat Modeling.
+* **SIEM & Incident Response:** Wazuh SIEM, ELK Stack, Splunk Fundamentals, Snort, and Suricata.
 
 ## Professional Experience
 
-**Web Application Penetration Tester Intern | [cite_start]Securetackles** [cite: 15]
-* Conducted vulnerability testing and application security assessments for enterprise web applications using the OWASP Top 10 methodology[cite: 17].
-* [cite_start]Documented identified vulnerabilities alongside technical evidence, business impact, and remediation recommendations[cite: 19].
+**Web Application Penetration Tester Intern | Securetackles**
+* Conducted vulnerability testing and application security assessments for enterprise web applications using the OWASP Top 10 methodology.
+* Documented identified vulnerabilities alongside technical evidence, business impact, and remediation recommendations.
 
-**Cyber Security Intern | [cite_start]Bytewise Limited** [cite: 21]
-* Analyzed network traffic using Wireshark to identify suspicious communication patterns, protocols, and packets[cite: 22].
-* [cite_start]Executed offensive security exercises focusing on OWASP Top 10 vulnerabilities and basic penetration testing workflows[cite: 24].
+**Cyber Security Intern | [cite_start]Bytewise Limited**
+* Analyzed network traffic using Wireshark to identify suspicious communication patterns, protocols, and packets.
+* Executed offensive security exercises focusing on OWASP Top 10 vulnerabilities and basic penetration testing workflows.
 
 ## Featured Projects
 
-[cite_start]**Finnera - Secure Core Banking Platform & API** [cite: 26]
-* Developed secure REST APIs featuring authentication, authorization, and decentralized identity mechanisms[cite: 28].
-* [cite_start]Integrated AI-based fraud detection for risk monitoring and anomaly identification[cite: 30].
+**Finnera - Secure Core Banking Platform & API**
+* Developed secure REST APIs featuring authentication, authorization, and decentralized identity mechanisms.
+* Integrated AI-based fraud detection for risk monitoring and anomaly identification.
 
-[cite_start]**SIEM-Based Threat Detection & Incident Monitoring** [cite: 33]
+**SIEM-Based Threat Detection & Incident Monitoring**
 * Utilized Wazuh and the ELK Stack to simulate attacks and monitor endpoint and network logs[cite: 33].
 * [cite_start]Configured detection use cases and conducted alert triage aligned with MITRE ATT&CK techniques[cite: 34].
 
-[cite_start]**DevSecOps Kubernetes Deployment using Terraform** [cite: 36]
-* Automated AWS EKS infrastructure provisioning utilizing Terraform[cite: 38].
-* [cite_start]Built CI/CD pipelines via GitHub Actions to automate container image builds, testing, and deployment[cite: 39].
+**DevSecOps Kubernetes Deployment using Terraform** 
+* Automated AWS EKS infrastructure provisioning utilizing Terraform.
+* Built CI/CD pipelines via GitHub Actions to automate container image builds, testing, and deployment.
 
 ## Get in Touch
-* [cite_start]**Email:** riazrooshan@gmail.com [cite: 2]
-* [cite_start]**LinkedIn:** [Connect with me](https://linkedin.com) [cite: 2]
-* [cite_start]**GitHub:** [View my repositories](https://github.com) [cite: 2]
+* **Email:** riazrooshan@gmail.com
+* **LinkedIn:** [Connect with me](https://linkedin.com)
+* **GitHub:** [View my repositories](https://github.com)

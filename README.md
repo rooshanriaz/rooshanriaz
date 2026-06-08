@@ -1,12 +1,14 @@
 # Hi there, I am Rooshan Riaz
 
-I am a Cybersecurity Engineer, actively pursuing opportunities as a System Administrator and in Security Operations Center (SOC) roles. 
+I am a Cybersecurity Engineer based in Lahore, Punjab, actively pursuing opportunities as a System Administrator and in Security Operations Center (SOC) roles.
 
 ## About Me
 * Cyber Security graduate from the Ghulam Ishaq Khan Institute of Engineering Sciences & Technology (GIKI).
-* I have hands-on experience with vulnerability assessment, application security testing, SIEM-based monitoring, cloud security, and DevSecOps.
-* My technical foundation includes completing a Diploma in DevSysOps Engineering and specialized training in Red Hat Certified System Administrator (RHCSA) fundamentals.
-* I am interested in cloud administration, cloud security, and learning new technologies to continuously optimize and secure enterprise systems.
+* Achieved Dean's Honor Roll for 4 semesters and secured 2nd Position in the Final Year Project Industrial Open House.
+* Hands-on experience with application security testing, vulnerability assessment, SIEM-based monitoring, cloud security, DevSecOps, and security documentation.
+* Familiar with GRC concepts, ISO 27001, NIST CSF, CIS Controls, security risk assessment, policy documentation, vulnerability management workflows, incident response, and secure SDLC practices.
+* Completed a Diploma in DevSysOps Engineering (ALNAFI) covering AWS Solution Architecture, Azure Administration, Python Automation, and Cloud Native Security Concepts.
+* Completed SysOps/RHCSA-Focused Training (ALNAFI) covering RHEL, Linux fundamentals, server administration, user/network administration, and system services.
 
 ## Technical Skills & Tools
 
@@ -21,34 +23,57 @@ I am a Cybersecurity Engineer, actively pursuing opportunities as a System Admin
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-* **Cloud & Infrastructure Security:** AWS, GCP, Linux, Windows Server, Network Security, and System Hardening.
-* **DevSecOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Python, Bash, and SQL.
-* **Application & Product Security:** OWASP Top 10, Burp Suite, OWASP ZAP, SAST, DAST, and Threat Modeling.
-* **SIEM & Incident Response:** Wazuh SIEM, ELK Stack, Splunk Fundamentals, Snort, and Suricata.
+* **GRC & Compliance:** ISO 27001, NIST CSF, NIST 800-53 Concepts, CIS Controls / CIS Top 20, Risk Assessment, Control Mapping, Compliance Documentation, Audit Evidence, Security Policies, and Remediation Tracking.
+* **Vulnerability Management:** Nessus, OpenVAS, Nmap, Metasploit, Vulnerability Assessment, Risk-Based Prioritization, Vulnerability Validation, and Patch & Remediation Support.
+* **Application & Product Security:** OWASP Top 10, OWASP API Security Top 10, Burp Suite, OWASP ZAP, SAST, DAST, SCA Concepts, Secure SDLC, Threat Modeling, and Secure Code Review Concepts.
+* **SIEM, IDS/IPS & Incident Response:** Wazuh SIEM, ELK Stack, Splunk Fundamentals, Snort, Suricata, Log Analysis, Alert Triage, Incident Investigation, MITRE ATT&CK, and Security Event Correlation.
+* **Cloud & Infrastructure Security:** AWS, GCP, IAM, VPC, Security Groups, Linux, Windows Server, Network Security, Firewalls, Secure Protocols, and System Hardening.
+* **DevSecOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Bash, Python, SQL, Git, Security Automation, and Dashboard/Reporting Concepts.
+* **Industrial / Critical Infrastructure Security:** ISA 62443 Concepts, OT/ICS Security Awareness, Network Segmentation, Asset-Centric Risk Thinking, and Critical Infrastructure Protection Concepts.
 
 ## Professional Experience
 
-**Web Application Penetration Tester Intern | Securetackles**
-* Conducted vulnerability testing and application security assessments for enterprise web applications using the OWASP Top 10 methodology.
-* Documented identified vulnerabilities alongside technical evidence, business impact, and remediation recommendations.
+**Web Application Penetration Tester Intern | Securetackles (SMC-PVT Ltd.)**
+* Performed application security assessments and vulnerability testing for enterprise web applications using the OWASP Top 10 methodology.
+* Used Burp Suite, OWASP ZAP, Nmap, and manual testing techniques to identify authentication, authorization, input validation, and session management weaknesses.
+* Documented vulnerabilities with severity, technical evidence, business impact, and remediation recommendations for stakeholders and development teams.
+* Strengthened understanding of secure SDLC, product security, risk-based remediation, vulnerability validation, and security reporting workflows.
 
 **Cyber Security Intern | Bytewise Limited**
-* Analyzed network traffic using Wireshark to identify suspicious communication patterns, protocols, and packets.
-* Executed offensive security exercises focusing on OWASP Top 10 vulnerabilities and basic penetration testing workflows.
+* Practiced network traffic analysis using Wireshark to identify packets, protocols, and suspicious communication patterns.
+* Built foundational knowledge of standards, compliance, SOC workflows, threat intelligence platforms, and secure system administration.
+* Performed offensive security exercises involving OWASP Top 10 vulnerabilities, Log4j RCE exploitation concepts, and basic penetration testing workflows.
 
 ## Featured Projects
 
 **Finnera - Secure Core Banking Platform & API**
-* Developed secure REST APIs featuring authentication, authorization, and decentralized identity mechanisms.
-* Integrated AI-based fraud detection for risk monitoring and anomaly identification.
+* Designed secure REST APIs with authentication, authorization, RBAC, and decentralized identity mechanisms for simulated financial transactions.
+* Implemented blockchain-backed audit trails to support transaction integrity, traceability, tamper-resistant logs, and compliance-oriented evidence collection.
+* Integrated AI-based fraud detection for anomaly identification, risk monitoring, and security-focused product design.
+* Applied threat modeling and secure design principles to identify risks across APIs, identity flows, transaction handling, and sensitive data workflows.
 
 **SIEM-Based Threat Detection & Incident Monitoring**
-* Utilized Wazuh and the ELK Stack to simulate attacks and monitor endpoint and network logs.
-* Configured detection use cases and conducted alert triage aligned with MITRE ATT&CK techniques.
+* Simulated attacks and monitored endpoint/network logs to detect suspicious activities, anomalies, and potential incidents.
+* Configured detection use cases, correlated multi-source security events, and conducted alert triage aligned with MITRE ATT&CK techniques.
+* Built practical exposure to incident investigation, log analysis, detection engineering, and security operations documentation.
 
-**DevSecOps Kubernetes Deployment using Terraform** 
-* Automated AWS EKS infrastructure provisioning utilizing Terraform.
-* Built CI/CD pipelines via GitHub Actions to automate container image builds, testing, and deployment.
+**DevSecOps Kubernetes Deployment using Terraform**
+* Automated AWS EKS infrastructure provisioning with Terraform, including VPC, IAM roles, security groups, and networking components.
+* Built CI/CD pipelines with GitHub Actions to automate infrastructure provisioning, container image builds, testing, and deployment.
+* Applied cloud security and Infrastructure-as-Code practices relevant to secure product delivery, configuration management, and security automation.
+
+## Cybersecurity Consulting Capabilities
+* **GRC Consulting:** Able to support control mapping, security documentation, audit evidence collection, compliance gap tracking, and remediation follow-up aligned with ISO 27001, NIST, CIS Controls, and ISA 62443 concepts.
+* **Vulnerability Management:** Able to run and validate scans, prioritize findings by severity and business impact, document remediation plans, and support vulnerability closure tracking.
+* **Product & Application Security:** Able to support secure SDLC activities including security requirements, threat modeling, API security testing, SAST/DAST validation, and developer-focused remediation guidance.
+* **Incident Management:** Able to support log review, alert triage, incident documentation, root-cause analysis, evidence collection, and escalation across technical teams.
+* **Security Automation & Reporting:** Able to use Python, Bash, SQL, GitHub Actions, and dashboards/reporting concepts to automate repetitive security checks and improve visibility into risks and compliance status.
+
+## Certifications & Achievements
+* **APISEC Certified Practitioner** - APISec University.
+* Represented GIKI in NADRA Bug Bounty Competition and reported security vulnerabilities.
+* Led a 25-member team for ACM - GIKI Chapter to organize the ICPC Asia West regional competition, coordinating logistics, registration, and on-day operations.
+* Delivered workshops to 50+ junior students on networking and Linux fundamentals, strengthening communication and technical training skills.
 
 ## Get in Touch
 * **Email:** riazrooshan@gmail.com

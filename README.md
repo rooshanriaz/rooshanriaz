@@ -52,5 +52,5 @@ I am a Cybersecurity Engineer, actively pursuing opportunities as a System Admin
 
 ## Get in Touch
 * **Email:** riazrooshan@gmail.com
-* **LinkedIn:** [Connect with me](https://linkedin.com)
-* **GitHub:** [View my repositories](https://github.com)
+* **LinkedIn:** [Connect with me](https://linkedin.com/in/rooshanriaz)
+* **GitHub:** [View my repositories](https://github.com/rooshanriaz)

@@ -43,8 +43,8 @@ I am a Cybersecurity Engineer, actively pursuing opportunities as a System Admin
 * Integrated AI-based fraud detection for risk monitoring and anomaly identification.
 
 **SIEM-Based Threat Detection & Incident Monitoring**
-* Utilized Wazuh and the ELK Stack to simulate attacks and monitor endpoint and network logs[cite: 33].
-* [cite_start]Configured detection use cases and conducted alert triage aligned with MITRE ATT&CK techniques[cite: 34].
+* Utilized Wazuh and the ELK Stack to simulate attacks and monitor endpoint and network logs.
+* Configured detection use cases and conducted alert triage aligned with MITRE ATT&CK techniques.
 
 **DevSecOps Kubernetes Deployment using Terraform** 
 * Automated AWS EKS infrastructure provisioning utilizing Terraform.

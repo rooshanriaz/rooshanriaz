@@ -51,6 +51,14 @@ I am a Cybersecurity Engineer based in Lahore, Punjab, actively pursuing opportu
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-003366?style=for-the-badge&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-000080?style=for-the-badge&logoColor=white)
+![CIS Controls](https://img.shields.io/badge/CIS%20Controls-2E8B57?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+![ISA 62443](https://img.shields.io/badge/ISA%2062443-555555?style=for-the-badge&logoColor=white)
 
 * **GRC & Compliance:** ISO 27001, NIST CSF, NIST 800-53 Concepts, CIS Controls / CIS Top 20, Risk Assessment, Control Mapping, Compliance Documentation, Audit Evidence, Security Policies, and Remediation Tracking.
 * **Vulnerability Management:** Nessus, OpenVAS, Nmap, Metasploit, Vulnerability Assessment, Risk-Based Prioritization, Vulnerability Validation, and Patch & Remediation Support.

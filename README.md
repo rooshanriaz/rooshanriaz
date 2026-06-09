@@ -31,17 +31,6 @@ I am a Cybersecurity Engineer based in Lahore, Punjab, actively pursuing opportu
 * **DevSecOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Bash, Python, SQL, Git, Security Automation, and Dashboard/Reporting Concepts.
 * **Industrial / Critical Infrastructure Security:** ISA 62443 Concepts, OT/ICS Security Awareness, Network Segmentation, Asset-Centric Risk Thinking, and Critical Infrastructure Protection Concepts.
 
-## Professional Experience
-
-**Web Application Penetration Tester Intern | Securetackles (SMC-PVT Ltd.)**
-* Performed application security assessments and vulnerability testing for enterprise web applications using the OWASP Top 10 methodology.
-* Used Burp Suite, OWASP ZAP, Nmap, and manual testing techniques to identify authentication, authorization, input validation, and session management weaknesses.
-* Documented vulnerabilities with severity, technical evidence, business impact, and remediation recommendations for stakeholders and development teams.
-* Strengthened understanding of secure SDLC, product security, risk-based remediation, vulnerability validation, and security reporting workflows.
-
-**Cyber Security Intern | Bytewise Limited**
-* Practiced network traffic analysis using Wireshark to identify packets, protocols, and suspicious communication patterns.
-* Built foundational knowledge of standards, compliance, SOC workflows, threat intelligence platforms, and secure system administration.
 * Performed offensive security exercises involving OWASP Top 10 vulnerabilities, Log4j RCE exploitation concepts, and basic penetration testing workflows.
 
 ## Cybersecurity Consulting Capabilities

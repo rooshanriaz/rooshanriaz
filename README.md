@@ -1,6 +1,6 @@
 # Hi there, I am Rooshan Riaz
 
-I am a Cybersecurity Engineer based in Lahore, Punjab, actively pursuing opportunities as a System Administrator and in Security Operations Center (SOC) roles.
+I am a Cybersecurity Engineer based in Pakistan.
 
 ## About Me
 * Cyber Security graduate from the Ghulam Ishaq Khan Institute of Engineering Sciences & Technology (GIKI).

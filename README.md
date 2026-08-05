@@ -62,16 +62,7 @@
 * **DevSecOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Bash, Python, SQL, Git, Security Automation, and Dashboard/Reporting Concepts.
 * **Industrial / Critical Infrastructure Security:** ISA 62443 Concepts, OT/ICS Security Awareness, Network Segmentation, Asset-Centric Risk Thinking, and Critical Infrastructure Protection Concepts.
 
-* Performed offensive security exercises involving OWASP Top 10 vulnerabilities, Log4j RCE exploitation concepts, and basic penetration testing workflows.
-
-## Cybersecurity Consulting Capabilities
-* **GRC Consulting:** Able to support control mapping, security documentation, audit evidence collection, compliance gap tracking, and remediation follow-up aligned with ISO 27001, NIST, CIS Controls, and ISA 62443 concepts.
-* **Vulnerability Management:** Able to run and validate scans, prioritize findings by severity and business impact, document remediation plans, and support vulnerability closure tracking.
-* **Product & Application Security:** Able to support secure SDLC activities including security requirements, threat modeling, API security testing, SAST/DAST validation, and developer-focused remediation guidance.
-* **Incident Management:** Able to support log review, alert triage, incident documentation, root-cause analysis, evidence collection, and escalation across technical teams.
-* **Security Automation & Reporting:** Able to use Python, Bash, SQL, GitHub Actions, and dashboards/reporting concepts to automate repetitive security checks and improve visibility into risks and compliance status.
-
 ## Get in Touch
 * **Email:** riazrooshan@gmail.com
 * **LinkedIn:** [Connect with me](https://linkedin.com/in/rooshanriaz)
-* **GitHub:** [View my repositories](https://github.com/rooshanriaz)
+* **GitHub:** [View my Work](https://github.com/rooshanriaz)

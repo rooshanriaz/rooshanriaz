@@ -1,7 +1,4 @@
 # Hi there, I am Rooshan Riaz
-
-I am a Cybersecurity Engineer based in Pakistan.
-
 ## About Me
 * Cyber Security graduate from the Ghulam Ishaq Khan Institute of Engineering Sciences & Technology (GIKI).
 * Hands-on experience with application security testing, vulnerability assessment, SIEM-based monitoring, cloud security, DevSecOps, and security documentation.

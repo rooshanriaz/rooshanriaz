@@ -4,11 +4,8 @@ I am a Cybersecurity Engineer based in Pakistan.
 
 ## About Me
 * Cyber Security graduate from the Ghulam Ishaq Khan Institute of Engineering Sciences & Technology (GIKI).
-* Achieved Dean's Honor Roll for 4 semesters and secured 2nd Position in the Final Year Project Industrial Open House.
 * Hands-on experience with application security testing, vulnerability assessment, SIEM-based monitoring, cloud security, DevSecOps, and security documentation.
-* Familiar with GRC concepts, ISO 27001, NIST CSF, CIS Controls, security risk assessment, policy documentation, vulnerability management workflows, incident response, and secure SDLC practices.
-* Completed a Diploma in DevSysOps Engineering (ALNAFI) covering AWS Solution Architecture, Azure Administration, Python Automation, and Cloud Native Security Concepts.
-* Completed SysOps/RHCSA-Focused Training (ALNAFI) covering RHEL, Linux fundamentals, server administration, user/network administration, and system services.
+* Skilled in GRC, ISO 27001, NIST CSF, CIS Controls, security risk assessment, policy documentation, vulnerability management workflows, incident response, and secure SDLC practices.
 
 ## Technical Skills & Tools
 

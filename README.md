@@ -11,8 +11,7 @@
 * **Application & Product Security:** OWASP Top 10, OWASP API Security Top 10, Burp Suite, OWASP ZAP, SAST, DAST, SCA Concepts, Secure SDLC, Threat Modeling, and Secure Code Review Concepts.
 * **SIEM, IDS/IPS & Incident Response:** Wazuh SIEM, ELK Stack, Splunk Fundamentals, Snort, Suricata, Log Analysis, Alert Triage, Incident Investigation, MITRE ATT&CK, and Security Event Correlation.
 * **Cloud & Infrastructure Security:** AWS, GCP, IAM, VPC, Security Groups, Linux, Windows Server, Network Security, Firewalls, Secure Protocols, and System Hardening.
-* **DevSecOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Bash, Python, SQL, Git, Security Automation, and Dashboard/Reporting Concepts.
-* **Industrial / Critical Infrastructure Security:** ISA 62443 Concepts, OT/ICS Security Awareness, Network Segmentation, Asset-Centric Risk Thinking, and Critical Infrastructure Protection Concepts.
+* **DevOps & Security Automation:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD Security, Bash, Python, SQL, Git, Security Automation, and Dashboard/Reporting Concepts
 
 ## Get in Touch
 * **Email:** riazrooshan@gmail.com
